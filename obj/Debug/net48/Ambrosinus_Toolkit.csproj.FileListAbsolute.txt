@@ -1,0 +1,14 @@
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\Ambrosinus_Toolkit.gha
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\Ambrosinus_Toolkit.pdb
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\Emgu.CV.dll
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.Properties.Resources.resources
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.csproj.GenerateResource.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.AssemblyInfoInputs.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.AssemblyInfo.cs
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.csproj.CopyComplete
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.gha
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\Ambrosinus_Toolkit.pdb

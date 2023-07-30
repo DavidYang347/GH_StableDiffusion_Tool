@@ -1,0 +1,26 @@
+C:\Users\19814\Desktop\c# for GH\test\bin\Debug\net48\test.gha
+C:\Users\19814\Desktop\c# for GH\test\bin\Debug\net48\test.pdb
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.AssemblyInfoInputs.cache
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.AssemblyInfo.cs
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.csproj.CoreCompileInputs.cache
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.gha
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.pdb
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.Properties.Resources.resources
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.csproj.GenerateResource.cache
+C:\Users\19814\Desktop\c# for GH\test\bin\Debug\net48\Emgu.CV.dll
+C:\Users\19814\Desktop\c# for GH\test\obj\Debug\net48\test.csproj.CopyComplete
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\test.gha
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\test.pdb
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\bin\Debug\net48\Emgu.CV.dll
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.Properties.Resources.resources
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.csproj.GenerateResource.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.AssemblyInfoInputs.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.AssemblyInfo.cs
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.csproj.CoreCompileInputs.cache
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.csproj.CopyComplete
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.gha
+C:\Users\19814\Desktop\C#forGH\Ambrosinus_Toolkit\obj\Debug\net48\test.pdb

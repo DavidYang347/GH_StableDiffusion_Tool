@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\19814\\Desktop\\C#forGH\\Ambrosinus_Toolkit\\Ambrosinus_Toolkit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\19814\\Desktop\\C#forGH\\Ambrosinus_Toolkit\\Ambrosinus_Toolkit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\19814\\Desktop\\C#forGH\\Ambrosinus_Toolkit\\Ambrosinus_Toolkit.csproj",
+        "projectName": "Ambrosinus_Toolkit",
+        "projectPath": "C:\\Users\\19814\\Desktop\\C#forGH\\Ambrosinus_Toolkit\\Ambrosinus_Toolkit.csproj",
+        "packagesPath": "C:\\Users\\19814\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\19814\\Desktop\\C#forGH\\Ambrosinus_Toolkit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\19814\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.6.0.5131, )"
+            },
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenCV": {
+              "target": "Package",
+              "version": "[2.4.11, )"
+            },
+            "RhinoCommon": {
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            },
+            "System.Drawing.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime.InteropServices.RuntimeInformation": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
